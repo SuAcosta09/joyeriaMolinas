@@ -27,5 +27,10 @@ namespace Joyeria_Molina
                 txtuser.ForeColor = Color.LightGray;
             }
         }
+
+        private void btncerrar_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

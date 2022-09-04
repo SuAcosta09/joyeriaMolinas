@@ -9,3 +9,14 @@ C:\Users\Su\source\repos\Joyeria Molina\bin\Debug\Joyeria Molina.exe
 C:\Users\Su\source\repos\Joyeria Molina\bin\Debug\Joyeria Molina.pdb
 C:\Users\Su\source\repos\Joyeria Molina\obj\Debug\Joyeria Molina.exe
 C:\Users\Su\source\repos\Joyeria Molina\obj\Debug\Joyeria Molina.pdb
+C:\Users\fernando.caballero\Desktop\Practicos-Taller-2\joyeriaMolinas\bin\Debug\Joyeria Molina.exe.config
+C:\Users\fernando.caballero\Desktop\Practicos-Taller-2\joyeriaMolinas\bin\Debug\Joyeria Molina.exe
+C:\Users\fernando.caballero\Desktop\Practicos-Taller-2\joyeriaMolinas\bin\Debug\Joyeria Molina.pdb
+C:\Users\fernando.caballero\Desktop\Practicos-Taller-2\joyeriaMolinas\obj\Debug\Joyeria Molina.csproj.AssemblyReference.cache
+C:\Users\fernando.caballero\Desktop\Practicos-Taller-2\joyeriaMolinas\obj\Debug\Joyeria Molina.csproj.SuggestedBindingRedirects.cache
+C:\Users\fernando.caballero\Desktop\Practicos-Taller-2\joyeriaMolinas\obj\Debug\Joyeria_Molina.login.resources
+C:\Users\fernando.caballero\Desktop\Practicos-Taller-2\joyeriaMolinas\obj\Debug\Joyeria_Molina.Properties.Resources.resources
+C:\Users\fernando.caballero\Desktop\Practicos-Taller-2\joyeriaMolinas\obj\Debug\Joyeria Molina.csproj.GenerateResource.cache
+C:\Users\fernando.caballero\Desktop\Practicos-Taller-2\joyeriaMolinas\obj\Debug\Joyeria Molina.csproj.CoreCompileInputs.cache
+C:\Users\fernando.caballero\Desktop\Practicos-Taller-2\joyeriaMolinas\obj\Debug\Joyeria Molina.exe
+C:\Users\fernando.caballero\Desktop\Practicos-Taller-2\joyeriaMolinas\obj\Debug\Joyeria Molina.pdb
