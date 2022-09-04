@@ -1,0 +1,11 @@
+C:\Users\Su\source\repos\Joyeria Molina\obj\Debug\Joyeria Molina.csproj.AssemblyReference.cache
+C:\Users\Su\source\repos\Joyeria Molina\obj\Debug\Joyeria Molina.csproj.SuggestedBindingRedirects.cache
+C:\Users\Su\source\repos\Joyeria Molina\obj\Debug\Joyeria_Molina.login.resources
+C:\Users\Su\source\repos\Joyeria Molina\obj\Debug\Joyeria_Molina.Properties.Resources.resources
+C:\Users\Su\source\repos\Joyeria Molina\obj\Debug\Joyeria Molina.csproj.GenerateResource.cache
+C:\Users\Su\source\repos\Joyeria Molina\obj\Debug\Joyeria Molina.csproj.CoreCompileInputs.cache
+C:\Users\Su\source\repos\Joyeria Molina\bin\Debug\Joyeria Molina.exe.config
+C:\Users\Su\source\repos\Joyeria Molina\bin\Debug\Joyeria Molina.exe
+C:\Users\Su\source\repos\Joyeria Molina\bin\Debug\Joyeria Molina.pdb
+C:\Users\Su\source\repos\Joyeria Molina\obj\Debug\Joyeria Molina.exe
+C:\Users\Su\source\repos\Joyeria Molina\obj\Debug\Joyeria Molina.pdb
