@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Joyeria_Molina
 {
-    public partial class login : Form
+    public partial class Login : Form
     {
-        public login()
+        public Login()
         {
             InitializeComponent();
         }
@@ -31,6 +31,14 @@ namespace Joyeria_Molina
         private void btncerrar_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void btnlogin_Click(object sender, EventArgs e)
+        {
+            Inicio form = new Inicio();
+            form.Show();
+            this.Hide();
+
         }
     }
 }

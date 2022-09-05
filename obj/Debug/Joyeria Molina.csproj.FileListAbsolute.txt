@@ -20,3 +20,9 @@ C:\Users\fernando.caballero\Desktop\Practicos-Taller-2\joyeriaMolinas\obj\Debug\
 C:\Users\fernando.caballero\Desktop\Practicos-Taller-2\joyeriaMolinas\obj\Debug\Joyeria Molina.csproj.CoreCompileInputs.cache
 C:\Users\fernando.caballero\Desktop\Practicos-Taller-2\joyeriaMolinas\obj\Debug\Joyeria Molina.exe
 C:\Users\fernando.caballero\Desktop\Practicos-Taller-2\joyeriaMolinas\obj\Debug\Joyeria Molina.pdb
+C:\Users\fernando.caballero\Desktop\Practicos-Taller-2\joyeriaMolinas\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\fernando.caballero\Desktop\Practicos-Taller-2\joyeriaMolinas\obj\Debug\Joyeria_Molina.inicio.resources
+C:\Users\fernando.caballero\Desktop\Practicos-Taller-2\joyeriaMolinas\obj\Debug\Joyeria Molina.csproj.CopyComplete
+C:\Users\fernando.caballero\Desktop\Practicos-Taller-2\joyeriaMolinas\obj\Debug\Joyeria_Molina.Client_Form.resources
+C:\Users\fernando.caballero\Desktop\Practicos-Taller-2\joyeriaMolinas\obj\Debug\Joyeria_Molina.User_form.resources
+C:\Users\fernando.caballero\Desktop\Practicos-Taller-2\joyeriaMolinas\obj\Debug\Joyeria_Molina.ProductForm.resources
