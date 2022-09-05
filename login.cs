@@ -33,12 +33,17 @@ namespace Joyeria_Molina
             this.Close();
         }
 
+        /// <summary>
+        /// Función para ingresar al formulario de inicio y ocultar el 
+        /// de login
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btnlogin_Click(object sender, EventArgs e)
         {
             Inicio form = new Inicio();
             form.Show();
             this.Hide();
-
         }
     }
 }

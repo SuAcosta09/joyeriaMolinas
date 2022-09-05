@@ -61,7 +61,6 @@ namespace Joyeria_Molina
             new_form.TopLevel = false;
             new_form.FormBorderStyle = FormBorderStyle.None;
             new_form.Dock = DockStyle.Fill;
-            //new_form.BackColor = Color.SteelBlue;
             pnl_principal.Controls.Add(new_form);
             new_form.Show();
         }
@@ -85,6 +84,11 @@ namespace Joyeria_Molina
         private void product_ico_Click(object sender, EventArgs e)
         {
             AbrirFormulario((IconMenuItem)sender, new ProductForm());
+        }
+
+        private void pnl_principal_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }

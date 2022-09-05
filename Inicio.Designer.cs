@@ -30,16 +30,16 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Inicio));
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.title_menu = new System.Windows.Forms.MenuStrip();
-            this.pnl_principal = new System.Windows.Forms.Panel();
-            this.btncerrar = new System.Windows.Forms.PictureBox();
             this.iconMenuItem1 = new FontAwesome.Sharp.IconMenuItem();
             this.client_ico = new FontAwesome.Sharp.IconMenuItem();
             this.product_ico = new FontAwesome.Sharp.IconMenuItem();
             this.sell_ico = new FontAwesome.Sharp.IconMenuItem();
             this.reports_ico = new FontAwesome.Sharp.IconMenuItem();
             this.backup_ico = new FontAwesome.Sharp.IconMenuItem();
+            this.title_menu = new System.Windows.Forms.MenuStrip();
             this.ico_logout = new FontAwesome.Sharp.IconMenuItem();
+            this.pnl_principal = new System.Windows.Forms.Panel();
+            this.btncerrar = new System.Windows.Forms.PictureBox();
             this.menuStrip1.SuspendLayout();
             this.title_menu.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.btncerrar)).BeginInit();
@@ -63,45 +63,6 @@
             this.menuStrip1.Size = new System.Drawing.Size(1300, 83);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menu";
-            // 
-            // title_menu
-            // 
-            this.title_menu.AutoSize = false;
-            this.title_menu.BackColor = System.Drawing.Color.Red;
-            this.title_menu.GripMargin = new System.Windows.Forms.Padding(2, 2, 0, 2);
-            this.title_menu.ImageScalingSize = new System.Drawing.Size(24, 24);
-            this.title_menu.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.ico_logout});
-            this.title_menu.Location = new System.Drawing.Point(0, 0);
-            this.title_menu.Name = "title_menu";
-            this.title_menu.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.title_menu.Size = new System.Drawing.Size(1300, 110);
-            this.title_menu.TabIndex = 1;
-            this.title_menu.Text = "menuStrip2";
-            // 
-            // pnl_principal
-            // 
-            this.pnl_principal.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.pnl_principal.Location = new System.Drawing.Point(0, 193);
-            this.pnl_principal.Name = "pnl_principal";
-            this.pnl_principal.Size = new System.Drawing.Size(1300, 607);
-            this.pnl_principal.TabIndex = 9;
-            // 
-            // btncerrar
-            // 
-            this.btncerrar.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.btncerrar.BackColor = System.Drawing.Color.Red;
-            this.btncerrar.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btncerrar.Image = ((System.Drawing.Image)(resources.GetObject("btncerrar.Image")));
-            this.btncerrar.Location = new System.Drawing.Point(1240, 14);
-            this.btncerrar.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.btncerrar.Name = "btncerrar";
-            this.btncerrar.Size = new System.Drawing.Size(60, 62);
-            this.btncerrar.TabIndex = 8;
-            this.btncerrar.TabStop = false;
-            this.btncerrar.Click += new System.EventHandler(this.btncerrar_Click);
             // 
             // iconMenuItem1
             // 
@@ -178,6 +139,21 @@
             this.backup_ico.Text = "Backup";
             this.backup_ico.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             // 
+            // title_menu
+            // 
+            this.title_menu.AutoSize = false;
+            this.title_menu.BackColor = System.Drawing.Color.Red;
+            this.title_menu.GripMargin = new System.Windows.Forms.Padding(2, 2, 0, 2);
+            this.title_menu.ImageScalingSize = new System.Drawing.Size(24, 24);
+            this.title_menu.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.ico_logout});
+            this.title_menu.Location = new System.Drawing.Point(0, 0);
+            this.title_menu.Name = "title_menu";
+            this.title_menu.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.title_menu.Size = new System.Drawing.Size(1300, 110);
+            this.title_menu.TabIndex = 1;
+            this.title_menu.Text = "menuStrip2";
+            // 
             // ico_logout
             // 
             this.ico_logout.ForeColor = System.Drawing.Color.White;
@@ -187,9 +163,34 @@
             this.ico_logout.IconSize = 50;
             this.ico_logout.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.ico_logout.Name = "ico_logout";
-            this.ico_logout.Size = new System.Drawing.Size(85, 106);
+            this.ico_logout.Size = new System.Drawing.Size(85, 104);
             this.ico_logout.Text = "Logout";
             this.ico_logout.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
+            // 
+            // pnl_principal
+            // 
+            this.pnl_principal.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.pnl_principal.Location = new System.Drawing.Point(0, 193);
+            this.pnl_principal.Name = "pnl_principal";
+            this.pnl_principal.Size = new System.Drawing.Size(1300, 607);
+            this.pnl_principal.TabIndex = 9;
+            this.pnl_principal.Paint += new System.Windows.Forms.PaintEventHandler(this.pnl_principal_Paint);
+            // 
+            // btncerrar
+            // 
+            this.btncerrar.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.btncerrar.BackColor = System.Drawing.Color.Red;
+            this.btncerrar.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btncerrar.Image = ((System.Drawing.Image)(resources.GetObject("btncerrar.Image")));
+            this.btncerrar.Location = new System.Drawing.Point(1240, 14);
+            this.btncerrar.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btncerrar.Name = "btncerrar";
+            this.btncerrar.Size = new System.Drawing.Size(60, 62);
+            this.btncerrar.TabIndex = 8;
+            this.btncerrar.TabStop = false;
+            this.btncerrar.Click += new System.EventHandler(this.btncerrar_Click);
             // 
             // Inicio
             // 
