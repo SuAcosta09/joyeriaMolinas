@@ -1,0 +1,14 @@
+C:\Users\fernando.caballero\Desktop\dotnet\winformadvance\bin\Debug\winformadvance.exe.config
+C:\Users\fernando.caballero\Desktop\dotnet\winformadvance\bin\Debug\winformadvance.exe
+C:\Users\fernando.caballero\Desktop\dotnet\winformadvance\bin\Debug\winformadvance.pdb
+C:\Users\fernando.caballero\Desktop\dotnet\winformadvance\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\fernando.caballero\Desktop\dotnet\winformadvance\obj\Debug\winformadvance.csproj.AssemblyReference.cache
+C:\Users\fernando.caballero\Desktop\dotnet\winformadvance\obj\Debug\winformadvance.csproj.SuggestedBindingRedirects.cache
+C:\Users\fernando.caballero\Desktop\dotnet\winformadvance\obj\Debug\winformadvance.Properties.Resources.resources
+C:\Users\fernando.caballero\Desktop\dotnet\winformadvance\obj\Debug\winformadvance.csproj.GenerateResource.cache
+C:\Users\fernando.caballero\Desktop\dotnet\winformadvance\obj\Debug\winformadvance.csproj.CoreCompileInputs.cache
+C:\Users\fernando.caballero\Desktop\dotnet\winformadvance\obj\Debug\winformadvance.csproj.CopyComplete
+C:\Users\fernando.caballero\Desktop\dotnet\winformadvance\obj\Debug\winformadvance.exe
+C:\Users\fernando.caballero\Desktop\dotnet\winformadvance\obj\Debug\winformadvance.pdb
+C:\Users\fernando.caballero\Desktop\dotnet\winformadvance\obj\Debug\winformadvance.pri_form.resources
+C:\Users\fernando.caballero\Desktop\dotnet\winformadvance\obj\Debug\winformadvance.UsersForm.resources
