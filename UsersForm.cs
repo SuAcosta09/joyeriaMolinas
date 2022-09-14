@@ -16,5 +16,20 @@ namespace winformadvance
         {
             InitializeComponent();
         }
+
+        private void bunifuTextBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bunifuTextBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bunifuDatePicker1_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
