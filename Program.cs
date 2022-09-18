@@ -16,7 +16,7 @@ namespace winformadvance
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new pri_form());
+            Application.Run(new Login());
         }
     }
 }

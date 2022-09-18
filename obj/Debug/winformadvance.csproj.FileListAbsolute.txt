@@ -53,6 +53,7 @@ C:\Users\fernando.caballero\Desktop\dotnet\winformadvance\obj\Debug\winformadvan
 C:\Users\fernando.caballero\Desktop\dotnet\winformadvance\obj\Debug\winformadvance.VentasForm.resources
 C:\Users\fernando.caballero\Desktop\dotnet\winformadvance\obj\Debug\winformadvance.ReportesForm.resources
 C:\Users\fernando.caballero\Desktop\dotnet\winformadvance\bin\Debug\Bunifu.Charts.WinForms.xml
+<<<<<<< HEAD
 C:\Users\Su\source\repos\joyeria\bin\Debug\winformadvance.exe.config
 C:\Users\Su\source\repos\joyeria\bin\Debug\winformadvance.exe
 C:\Users\Su\source\repos\joyeria\bin\Debug\winformadvance.pdb
@@ -108,3 +109,6 @@ C:\Users\Su\source\repos\joyeria\obj\Debug\winformadvance.csproj.Fody.CopyLocal.
 C:\Users\Su\source\repos\joyeria\obj\Debug\winformadvance.csproj.CopyComplete
 C:\Users\Su\source\repos\joyeria\obj\Debug\winformadvance.exe
 C:\Users\Su\source\repos\joyeria\obj\Debug\winformadvance.pdb
+=======
+>>>>>>> 1db37bae4014d73025869178f6b40f4031c890bf
+C:\Users\Su\source\repos\joyeria\obj\Debug\winformadvance.Login.resources

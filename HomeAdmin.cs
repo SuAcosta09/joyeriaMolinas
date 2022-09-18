@@ -207,5 +207,10 @@ namespace winformadvance
         {
             WindowState=FormWindowState.Minimized;
         }
+
+        private void panel_primary_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
